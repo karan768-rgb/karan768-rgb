@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://share.streamlit.io/karan768-rgb">
-    <img src="https://img.shields.io/badge/Streamlit%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Streamlit%20Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
 </p>
 
