@@ -39,15 +39,19 @@
 ---
 
 ## 🔗 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/karan768-rgb"><img src="https://skillicons.dev/icons?i=github" /></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karan-kaushik-77">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
   <a href="https://www.instagram.com/thekarankaushik865/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karan768-rgb&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
