@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Exploring+Machine+Learning+Algorithms;Data+Analysis+%7C+Visualization+%7C+Storytelling;Python+%7C+Pandas+%7C+NumPy+%7C+Plotly;Building+Data+Driven+Projects" />
 </p>
----
 
 ## 🧠 About Me
 - 💻 Passionate about **Data Science & AI**
