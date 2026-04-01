@@ -14,14 +14,6 @@
 - ⚡ Currently working with **Plotly & Streamlit**
 - 🌱 Learning **Machine Learning & Real-world applications**
 
----
-## 🚀 Live Projects
-
-<p align="center">
-  <a href="https://share.streamlit.io/karan768-rgb">
-    <img src="https://img.shields.io/badge/Streamlit%20Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>
-</p>
 
 ## 🛠 Tech Stack
 
@@ -38,11 +30,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan768-rgb&show_icons=true&theme=transparent&bg_color=00000000&title_color=00F7FF&text_color=ffffff" />
-  <img src="https://streak-stats.demolab.com?user=karan768-rgb&theme=transparent&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan768-rgb&bg_color=000000&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +48,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karan768-rgb&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-
-## ⚡ Fun Fact
-> I turn data into stories 📊✨
+<p align="center">
+  <sub>Thanks for visiting — feel free to explore my projects 🚀</sub>
+</p>
