@@ -12,7 +12,7 @@
 - 💻 Passionate about **Data Science & AI**
 - 📊 Love building **Data Visualization projects**
 - ⚡ Currently working with **Plotly & Streamlit**
-- 🌱 Learning **Machine Learning & Real-world applications**
+- 🌱 Learning **Machine Learning & Real world applications**
 
 
 ## 🛠 Tech Stack
@@ -24,7 +24,7 @@
 ---
 
 ## 📈 Current Focus
-- 🔹 Building real-world data projects  
+- 🔹 Building real world data projects  
 - 🔹 Improving Python & ML skills  
 - 🔹 Creating portfolio for global opportunities 🌍  
 
@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting — feel free to explore my projects 🚀</sub>
+  <sub>Thanks for visiting feel free to explore my projects 🚀</sub>
 </p>
